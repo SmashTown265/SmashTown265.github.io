@@ -17,3 +17,13 @@ header, footer {
     height: 200px;
 }
 
+#wrapper > section > section {
+    float: left;
+    width: 540px;
+    margin-right: 20px;
+}
+
+#wrapper > section > aside {
+    float: left;
+    width: 400px;
+}
