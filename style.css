@@ -1,0 +1,19 @@
+@font-face {
+    font-family: Silkscreen;
+    src: url(../font/slkscr.tff);
+}
+
+* {
+    font-family: Silkscreen;
+}
+
+body {
+    background: #eee url(../imgs/Brick_Texture.png);
+}
+
+header, footer {
+    background: url(../img/Brick_Texture.png);
+    text-align: center;
+    height: 200px;
+}
+
