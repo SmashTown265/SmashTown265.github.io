@@ -27,3 +27,22 @@ header, footer {
     float: left;
     width: 400px;
 }
+
+footer h5 {
+    font-family: Silkscreen, Arial, sans-serif;
+    font-size: 1.4em;
+    line-height: 1.2em;
+    color: #fff;
+}
+
+p {
+	font-size: 1.6em;
+	line-height: 1.8em;
+	color: #c04c33;
+	margin-bottom: 15px;
+}
+
+a {
+	color: #ff6443;
+	text-decoration: none;
+}
